@@ -1,2 +1,2 @@
-# hissyscore-nginx
-Health Information System Core - nginx
+# hissyscore
+Health Information System - Core
